@@ -1,6 +1,3 @@
-import './styles/normalize.scss';
-import './styles/global.scss';
-
 const List = () => {
     return (
         <div>
